@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+#そんな目で俺を見るんじゃねぇえええ！！！！
+
 <!--
 **KenshinKaraage/KenshinKaraage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
