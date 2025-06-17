@@ -1,6 +1,14 @@
 ## 「力さえあれば、理屈などいらない」　中西
 
+## 中西の夢
 
+- 西セントラル大学設立
+- サバイバル学習塾設立
+- 中西ゲームズ法人化
+- 小説執筆
+- ボカロプロデューサーとして活動
+- 中西トークン発行
+- 絵を売る
 
 <!--
 **KenshinKaraage/KenshinKaraage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
