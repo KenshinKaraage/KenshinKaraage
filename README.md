@@ -1,4 +1,4 @@
-## 「力さえあれば、理屈などいらない」　中西
+## 力さえあれば、理屈などいらない
 
 <!--
 **KenshinKaraage/KenshinKaraage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
