@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 中西　伶
 
 
-27卒エンジニア志望
+27卒新卒　エンジニア志望
 
 ---
 
