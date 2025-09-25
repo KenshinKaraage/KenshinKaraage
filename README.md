@@ -48,9 +48,11 @@ Here are some ideas to get you started:
 
 | プロジェクト名 | 概要 / 目的 | 使用技術 | リンク |
 |---|---|---|---|
-| **プロジェクト A** | タスク管理アプリ。ユーザーがタスクを追加・編集・削除できる機能付き | React / Node.js / PostgreSQL / Docker | [GitHub リポジトリ](リンク) / [デモ](リンク) |
-| **プロジェクト B** | 画像共有 SNS。画像投稿・コメント機能・いいね機能など | Vue / Express / MongoDB | [GitHub リポジトリ](リンク) / [デモ](リンク) |
-| **プロジェクト C** | データ可視化ダッシュボード / レポートツール | Python / Dash / Pandas / Plotly | [GitHub リポジトリ](リンク) / [デモ](リンク) |
+| **The Marble** | タスク管理アプリ。ユーザーがタスクを追加・編集・削除できる機能付き | React / Node.js / PostgreSQL / Docker | [GitHub リポジトリ](リンク) / [デモ](リンク) |
+| **AI人狼** | データ可視化ダッシュボード / レポートツール | Python / Dash / Pandas / Plotly | [GitHub リポジトリ](リンク) / [デモ](リンク) |
+| **探索ホラーゲーム** | 画像共有 SNS。画像投稿・コメント機能・いいね機能など | Vue / Express / MongoDB | [GitHub リポジトリ](リンク) / [デモ](リンク) |
+| **片方の靴を勢いよく飛ばしてもう片方の靴に揃えるゲーム** | 画像共有 SNS。画像投稿・コメント機能・いいね機能など | Vue / Express / MongoDB | [GitHub リポジトリ](リンク) / [デモ](リンク) |
+| **Hackathon1** | 画像共有 SNS。画像投稿・コメント機能・いいね機能など | Vue / Express / MongoDB | [GitHub リポジトリ](リンク) / [デモ](リンク) |
 
 ### 各プロジェクトの詳細構成（例：プロジェクト A）
 
