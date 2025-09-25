@@ -43,8 +43,6 @@ Here are some ideas to get you started:
 | インフラ / DevOps | Docker |
 | ツール / その他 | Unity(得意), Git, VSCode |
 
-※「学習中」「使用経験あり」「得意」など、レベル感を注記しておくと親切です。
-
 ---
 
 ## 📂 制作物 / プロジェクト
