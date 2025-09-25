@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 |---|---|
 | 言語 | C#（得意）, Python, JavaScript, TypeScript（学習中） |
 | フロントエンド |  React（学習中）, HTML, CSS, TailwindCSS |
-| バックエンド | API | PHP, Laravel, Node.js, Next.js,  |
-| インフラ | DevOps | Docker |
-| ツール | その他 | Unity(得意), Git, VSCode |
+| バックエンド / API | PHP, Laravel, Node.js, Next.js,  |
+| インフラ / DevOps | Docker |
+| ツール / その他 | Unity(得意), Git, VSCode |
 
 ---
 
