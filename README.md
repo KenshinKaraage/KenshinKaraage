@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 | フロントエンド |  React（学習中）, HTML, CSS, TailwindCSS |
 | バックエンド / API | PHP, Laravel, Node.js, Next.js,  |
 | インフラ / DevOps | Docker |
-| ツール / その他 | Unity(得意), Git, VSCode |
+| ツール / その他 | Unity(得意), Git, Github, VSCode |
 
 ---
 
