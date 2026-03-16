@@ -1,23 +1,3 @@
-
-
-<!--
-**KenshinKaraage/KenshinKaraage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- =======================
-     ヘッダー / 挨拶・自己紹介
-======================= -->
 ## プロフィール
 
 大阪公立大学　情報学研究科　M2
@@ -47,57 +27,10 @@ Here are some ideas to get you started:
 
 | プロジェクト名 | 概要 | 使用技術 | リンク |
 |---|---|---|---|
-| **The Marble** | オンラインマーブルレースゲーム。 | Unity / C# / Photon | [unityroom]([リンク](https://github.com/KenshinKaraage/The-Marble)) |
-| **AI人狼** | 人間がAIのフリをしなければならないゲーム。 | Unity / C# / Photon/ Gemini API/ Google App Scripts | [GitHub リポジトリ]([リンク](https://github.com/KenshinKaraage/hackathon0607))|
-| **探索ホラーゲーム** | カメラを置いて敵から身を逃げつつ脱出するゲーム | Unity / C# | [unityroom]([リンク](https://unityroom.com/games/eyesee)) |
-| **靴を使ったゴルフゲーム** | 片方の靴を勢いよく飛ばしてもう片方の靴に揃えるゲーム | Unity / C# | [unityroom]([リンク](https://unityroom.com/games/opuappnavi-shoe-golf)) |
-
-### 各プロジェクトの詳細構成（例：プロジェクト A）
-
-```md
-#### プロジェクト A：タスク管理アプリ
-
-- **目的 / 背景**  
-　学生生活でのタスク管理が散らかりがちだったため、自分で効率よく使えるツールを作ろうと思った。
-
-- **主要機能**  
-  1. ユーザー登録 / ログイン機能  
-  2. タスク CRUD（作成 / 読み込み / 更新 / 削除）  
-  3. 期限通知 / リマインダー  
-  4. タグ付け・フィルタ機能  
-  5. モバイル・レスポンシブ対応  
-
-- **技術スタック / 選定理由**  
-  - フロントエンド：React + TypeScript（型安全性重視）  
-  - バックエンド：Node.js + Express（軽量で扱いやすいため）  
-  - データベース：PostgreSQL（リレーショナルな構造が適していたため）  
-  - Docker を使ってローカル環境構築を簡単に  
-  - GitHub Actions による自動テスト & デプロイ  
-
-- **アーキテクチャ / システム構成**  
-  - クライアント ⇄ REST API ⇄ サーバー  
-  - 認証：JWT  
-  - データベース構成・ER 図を以下に示す  
-  - 静的ファイル / クライアントは CDN 配信  
-
-- **開発プロセス / スケジュール**  
-  - 2024-01 ～ 2024-02：要件定義・設計  
-  - 2024-03 ～ 2024-04：実装フェーズ  
-  - 2024-05：テスト・バグ修正  
-  - 2024-06：リファクタリング・最適化  
-
-- **こだわった点 / 工夫した点**  
-  - レスポンシブ UI を最初から意識  
-  - API のレスポンス設計を統一して、冗長にならないように  
-  - 処理のキャッシュ / パフォーマンス最適化  
-  - エラーハンドリングを丁寧に実装  
-
-- **苦労した点 / 課題と対応**  
-  - 複数ユーザー同時操作時の競合状態  
-    → トランザクション制御・ロック機構の導入  
-  - 大量データ取得時の通信遅延  
-    → ページネーション・非同期処理導入  
-
-- **成果 / 振り返り**  
-  - 使用者からのフィードバック（もしあれば）  
-  - 「次に改善したい点」：通知機能の拡張、ソーシャルログイン追加など  
+| **AIdentity** | AI人狼。人間がAIのフリをしなければならないゲーム。 | Unity / C# / Photon / Gemini API / Google App Scripts | [GitHub](https://github.com/KenshinKaraage/hackathon0607) |
+| **The Marble** | オンラインマーブルレースゲーム。 | Unity / C# / Photon | [GitHub](https://github.com/KenshinKaraage/The-Marble) / [unityroom](https://unityroom.com/games/themarble) |
+| **三本の柱** | 三つの柱の位置を調整してモノを落とし、それを支えることができればクリア。 | Unity / C# | [GitHub](https://github.com/KenshinKaraage/Three1) / [unityroom](https://unityroom.com/games/three1) |
+| **10Shot** | プレイヤー（シューター）の数字が高くなればなるほど強くなる、しかし10を超えるとゲームオーバー。スコアもゼロ。 | Unity / C# | [GitHub](https://github.com/KenshinKaraage/10Shot) / [unityroom](https://unityroom.com/games/10shot) |
+| **正めるゲーム** | ちょうどよく止めるを止めて正を作るゲーム。 | Unity / C# | [GitHub](https://github.com/KenshinKaraage/Stop) / [unityroom](https://unityroom.com/games/project_stop) |
+| **Eyesee** | 探索ホラーゲーム。カメラを置いて敵から逃げつつ脱出するゲーム。 | Unity / C# | [GitHub](https://github.com/KenshinKaraage/Project_Eye) / [unityroom](https://unityroom.com/games/eyesee) |
+| **靴を飛ばすゲーム** | 片方の靴を勢いよく飛ばしてもう片方の靴に揃えるゲーム。 | Unity / C# | [unityroom](https://unityroom.com/games/opuappnavi-shoe-golf) |
