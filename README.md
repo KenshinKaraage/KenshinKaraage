@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 
 | プロジェクト名 | 概要 | 使用技術 | リンク |
 |---|---|---|---|
-| **The Marble** | オンラインマーブルレースゲーム。 | Unity / C# / Photon | [デモ](リンク) |
-| **AI人狼** | 人間がAIのフリをしなければならないゲーム。 | Unity / C# / Photon/ Gemini API/ Google App Scripts | [GitHub リポジトリ](リンク) / [デモ](リンク) |
-| **探索ホラーゲーム** | カメラを置いて敵から身を逃げつつ脱出するゲーム | Unity / C# | [デモ](リンク) |
-| **靴を使ったゴルフゲーム** | 片方の靴を勢いよく飛ばしてもう片方の靴に揃えるゲーム | Unity / C# | [デモ](リンク) |
+| **The Marble** | オンラインマーブルレースゲーム。 | Unity / C# / Photon | [unityroom]([リンク](https://github.com/KenshinKaraage/The-Marble)) |
+| **AI人狼** | 人間がAIのフリをしなければならないゲーム。 | Unity / C# / Photon/ Gemini API/ Google App Scripts | [GitHub リポジトリ]([リンク](https://github.com/KenshinKaraage/hackathon0607))|
+| **探索ホラーゲーム** | カメラを置いて敵から身を逃げつつ脱出するゲーム | Unity / C# | [unityroom]([リンク](https://unityroom.com/games/eyesee)) |
+| **靴を使ったゴルフゲーム** | 片方の靴を勢いよく飛ばしてもう片方の靴に揃えるゲーム | Unity / C# | [unityroom]([リンク](https://unityroom.com/games/opuappnavi-shoe-golf)) |
 
 ### 各プロジェクトの詳細構成（例：プロジェクト A）
 
